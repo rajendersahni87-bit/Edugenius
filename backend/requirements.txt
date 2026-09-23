@@ -1,0 +1,29 @@
+# Core Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+sqlalchemy>=2.0.35
+python-jose[cryptography]>=3.3.0
+bcrypt>=4.0.0
+python-multipart>=0.0.12
+
+# AI / LLM
+langchain>=0.3.12
+langchain-google-genai>=2.0.8
+langchain-community>=0.3.12
+chromadb>=0.5.12
+sentence-transformers>=3.3.0
+pypdf2>=3.0.1
+
+# Config & Validation
+pydantic-settings>=2.6.0
+pydantic>=2.9.2
+
+# Frontend
+streamlit>=1.39.0
+plotly>=5.24.1
+
+# Utilities
+requests>=2.32.3
+python-dotenv>=1.0.1
+pandas>=2.0.0
+numpy>=2.1.0

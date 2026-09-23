@@ -94,4 +94,4 @@ edugenius/
 
 ## 📄 License
 
-MIT — Built for Hackathon 2024
+MIT — Built for Hackathon 2026
